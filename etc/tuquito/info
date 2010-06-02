@@ -1,0 +1,6 @@
+RELEASE=4
+CODENAME=toba
+DESCRIPTION="Tuquito 4 Toba"
+EDITION="LXDE"
+GRUB_TITLE=Tuquito 4 Toba
+STATUS=beta

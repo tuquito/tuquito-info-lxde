@@ -1,0 +1,12 @@
+Source: tuquito-info-lxde
+Section: admin
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.1
+
+Package: tuquito-info-lxde
+Architecture: i386
+Description: Información básica del sistema LXDE
+ Paquete base de información para el ajuste del sistema e identificación de versión.
+ * Tuquito Team! - 2010
