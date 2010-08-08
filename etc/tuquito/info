@@ -1,6 +1,7 @@
-RELEASE=4
+RELEASE=4.1
 CODENAME=toba
-DESCRIPTION="Tuquito 4 Toba"
+DESCRIPTION="Tuquito 4.1 Toba"
 EDITION="LXDE"
-GRUB_TITLE=Tuquito 4 Toba
-STATUS=beta
+GRUB_TITLE=Tuquito 4.1 Toba
+STATUS=alpha
+
