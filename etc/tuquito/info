@@ -2,4 +2,4 @@ RELEASE=4.1
 CODENAME=wichi
 DESCRIPTION="Tuquito 4.1 Wichi"
 EDITION="LXDE"
-STATUS=alpha
+STATUS=beta
